@@ -1,0 +1,8 @@
+{
+    "name": "react_first",
+    "version": "1.0.0",
+    "description": "this is my first react app without any command",
+    "scripts": {
+        "start": ""
+    }
+}
